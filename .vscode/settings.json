@@ -6,5 +6,6 @@
 		"esp_system.h": "c",
 		"freertosconfig.h": "c",
 		"string": "cpp"
-	}	
+	},
+	"idf.adapterTargetName": "esp32"
 }
